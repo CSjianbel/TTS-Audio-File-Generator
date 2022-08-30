@@ -1,0 +1,9 @@
+A1_Q1 Press and hear the Alphabet's Name upper and lower case
+A1_Q2 Sing along with the Alphabet Song
+A1_Q3 Drag and drop to fill in the missing letters
+A2 Press the letter to hear the initial sound, then press each picture to learn how to pronounce the word
+A2_ASSESSMENT Draw a line matching the picture with the letter that makes its beginning sound
+A3 Click each of the letters to hear the initial sound, then, click the word to learn how to pronounce it
+A4 Click each of the words to learn how to pronounce it
+A9 Read the literary piece and watch the video
+A9_COMP_CHECK Choose the letter of the correct answer
